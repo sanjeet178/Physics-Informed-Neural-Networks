@@ -5,8 +5,9 @@ A collection of python notebooks used to solve Physics Informed Neural Networks 
 Working on Res-Net based architecture
 
 ## Previously Attempted
-- Transfer Learning based time stepping methodologies
+- Transfer Learning, RNN and GRU based time stepping methodologies. 
 - Gradient enhanced PINN
 - Coupling of gradient and evolutionary optimiser(genetic algorithm)
-- 
-- 
+  
+## Future Scope
+- Create activation functions that is robust in training Higher order derivatives
