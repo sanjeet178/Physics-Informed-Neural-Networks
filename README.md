@@ -26,3 +26,7 @@ Working on Res-Net based architecture
 
 ## Future Scope
 - Create activation functions that is robust in training Higher order derivatives
+
+## References
+- Maziar Raissi, Paris Perdikaris, George Em Karniadakis, "Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations," [URL: http://arxiv.org/abs/1711.10561], November 2017.
+- Chang Miao, Yibo Yang, Paris Perdikaris, Daniel E. Hurtado, Ellen Kuhl, "Physics-Informed Neural Networks for Cardiac Activation Mapping," Frontiers in Physics, vol. 8, February 2020. [DOI: 10.3389/fphy.2020.00042]
