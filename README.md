@@ -1,5 +1,5 @@
 # Physics-Informed-Neural-Networks
-A collection of python notebooks used to solve Physics Informed Neural Networks (PINNs) for phase change material problems.
+A collection of python notebooks used to solve Physics Informed Neural Networks (PINNs) for phase change material problems. PINN essentially solves differential equations. Most of the mechanical based problem are governed by differential equations, hence a robust differential equation solver is required. Hence, PINN has grown into prominence for its ability to provide accurate answers for a differential equation. 
 
 ## Current Progress
 Working on Res-Net based architecture
