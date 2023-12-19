@@ -20,7 +20,7 @@ Working on Res-Net based architecture
 
 
 ## Results
-- Phase Change Material heated from two sides and the other two sides are insulated 
+- Phase Change Material (icw) heated from two sides and the other two sides are insulated 
 
   <img width="900" alt="image" src="https://github.com/sanjeet178/Physics-Informed-Neural-Networks/assets/69724036/990de879-3cd0-4f9c-a062-f53fcc1fa072">
 
