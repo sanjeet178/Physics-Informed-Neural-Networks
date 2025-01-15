@@ -5,7 +5,7 @@ A collection of python notebooks used to solve Physics Informed Neural Networks 
 This paper is submitted for publication .Henforth, main/final codes aren't revealed in this projects. Certain sample codes have been uploaded
 
 ## Final Update
-Implemented Res-Net based architecture to implement diffuse interface based formulation
+Implemented Res-Net based architecture to implement diffuse interface based formulation. Moreover, utilised radial basis function as the activation function for this project
 
 ## Previously Attempted
 - Transfer Learning, RNN and GRU based time stepping methodologies. 
